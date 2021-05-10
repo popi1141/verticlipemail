@@ -1,0 +1,110 @@
+<mjml>
+  <mj-head>
+    <mj-title>Here's your VertiClip!</mj-title>
+    <mj-preview>A link to your newly-generated social media-ready vertical clip</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="'Roboto', Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-text>
+    </mj-attributes>
+    <mj-style inline="inline">
+      .body-section {
+      -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .text-link {
+      color: #5e6ebf
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .footer-link {
+      color: #888888
+      }
+    </mj-style>
+
+  </mj-head>
+  <mj-body background-color="#E7E7E7" width="600px">
+    <mj-section full-width="full-width" background-color="#040B4F" padding-bottom="0">
+      <mj-column width="100%">
+        <mj-image src="pipelinelogo.png" alt="" align="center" width="150px" padding-bottom="25px"/>
+        <mj-image src="verticlipheader.png" width="600px" alt="" padding="0" href="https://verticlip.gg" />
+      </mj-column>
+    </mj-section>
+    <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+        <mj-column width="100%">
+          <mj-text color="#212b35" font-weight="bold" font-size="20px">
+            Here's your VertiClip!
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            Hi, thanks for using VertiClip -- the best way to create vertical stream clips to transform your content and accelerate your growth!
+          </mj-text>
+          <mj-text color="#637381" font-size="16px" padding-bottom="25px">
+           In the link below you'll find a link containing your VertiClip, which will be stored in our servers for about seven (7) days. Make sure to download it in time so you don't lose it!
+          </mj-text>
+          <mj-button background-color="#4938FF" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://google.com" width="300px">
+            Download Your Verticlip
+          </mj-button>
+          <mj-text color="#637381" font-size="16px" padding-top="25px">
+           We at Pipeline are all about helping creators take their craft to the next level. If you want to learn more about streaming and content creation, feel free to check out <a class="text-link" href="https://pipeline.gg"> our platform</a> for expert-led content and tools that will help you level up! 
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+           We're always looking to improve VertiClip, so do drop us a line at <a class="text-link" href="mailto:justin@pipelinegg"> justin@pipeline.gg </a> for any feedback that you have.
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+          Til' next time, stay safe and keep creating!
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px" padding-top="0">
+        <mj-column width="100%">
+          <mj-image align="center" src="pipelinead.png" href="https://pipeline.gg"    alt="" />
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px" padding-top="0">
+        <mj-column width="100%">
+          <mj-divider border-color="#DFE3E8" border-width="1px" />
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-wrapper full-width="full-width">
+      <mj-section>
+        <mj-column width="100%" padding="0">
+          <mj-social font-size="15px" icon-size="30px" mode="horizontal" padding="0" align="center">
+            <mj-social-element name="web" href="https://pipeline.gg" background-color="#4938FF">
+            </mj-social-element>
+            <mj-social-element name="facebook" href="https://facebook.com/pipelinegg" background-color="#4938FF">
+            </mj-social-element>
+            <mj-social-element name="twitter" href="https://twitter.com/pipelinegg" background-color="#4938FF">
+            </mj-social-element>
+            <mj-social-element name="instagram" href="https://instagram.com/pipelinegg" background-color="#4938FF">
+            </mj-social-element>
+          </mj-social>
+          <mj-text color="#445566" font-size="11px" font-weight="bold" align="center">
+            View this email in your browser
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+            You are receiving this email  because you generated a clip using VertiClip, a product by Upload Inc.
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+            &copy;  Upload Inc. - 205 Nelray Blvd, Austin, TX 78751
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top="0">
+        <mj-group>
+          <mj-column width="100%" padding-right="0">
+            <mj-text color="#445566" font-size="11px" align="center" line-height="16px" font-weight="bold">
+              <a class="footer-link" href="https://www.google.com">Privacy</a>&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;<a class="footer-link" href="https://www.google.com">Unsubscribe</a>
+            </mj-text>
+          </mj-column>
+        </mj-group>
+
+      </mj-section>
+    </mj-wrapper>
+
+  </mj-body>
+</mjml>
